@@ -1,0 +1,9 @@
+Integrantes
+   - Nombre del Estudiante 01: Axel Barzola
+     Git Hub: https://github.com/axelbm29/UC2S2-Parte01.git
+
+   - Nombre del Estudiante 02: Josue Caman
+     Git Hub: https://github.com/JosC45/UC2S2-Parte02.git
+
+   - Nombre del Estudiante 03: Carlos Curo
+     Git Hub: https://github.com/TuDiosCarlos/UC2S2-Parte03.git
